@@ -6,13 +6,10 @@ Este proyecto es un clon de Meeti, una aplicación de planificación de eventos 
 
 ## Tabla de contenidos
 
-- [Clon de meeti](#clon-de-meeti)
-  - [Tabla de contenidos](#tabla-de-contenidos)
   - [Vista Previa](#vista-previa)
     - [Screenshot](#screenshot)
     - [Link](#link)
   - [Mi Proceso](#mi-proceso)
-    - [Construido con:](#construido-con)
   - [Autor](#autor)
 
 
